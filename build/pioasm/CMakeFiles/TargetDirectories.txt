@@ -1,0 +1,3 @@
+C:/Users/m3925/Documents/Pico/pico-project-generator/picoPioUartTx/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/m3925/Documents/Pico/pico-project-generator/picoPioUartTx/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/m3925/Documents/Pico/pico-project-generator/picoPioUartTx/build/pioasm/CMakeFiles/rebuild_cache.dir
